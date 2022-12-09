@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\code\UTS\Silinder atau tabung\Silinder atau tabung\Source.cpp(7,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Silinder atau tabung.vcxproj -> D:\code\UTS\Silinder atau tabung\x64\Debug\Silinder atau tabung.exe
